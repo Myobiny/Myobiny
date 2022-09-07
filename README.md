@@ -1,4 +1,5 @@
-안녕하세요 성장하는 개발자 김효빈입니다!
+Hi I'm Hyobin Kim
+
 --- 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyobin2631@gmail.com)](mailto:hyobin2631@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/Mail-000000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyobin8354@hs.ac.kr)](mailto:hyobin8354@hs.ac.kr)
